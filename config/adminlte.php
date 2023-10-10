@@ -323,6 +323,11 @@ return [
             'url'         => 'usuarios',
             'icon'        => 'far fa-fw fa-file',
         ],
+        [
+            'text'        => 'productos',
+            'url'         => 'productos',
+            'icon'        => 'far fa-fw fa-file',
+        ],
         ['header' => 'account_settings'],
         [
             'text' => 'profile',
